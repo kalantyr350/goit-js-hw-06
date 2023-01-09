@@ -20,4 +20,3 @@ btnIncrement.addEventListener("click", function () {
 	increment();
 	return (valueSpan.textContent = counterValue);
 });
-value.textContent = counterValue;
